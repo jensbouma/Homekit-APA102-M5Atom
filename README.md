@@ -1,5 +1,7 @@
 # Homespan-APA102A-M5Atom
+<img src="../Homespan%20Neoled/docs/img/result.jpg" width="350">
 M5Atom Homekit Controller for APA102A adressable ledstrips
+
 - ESP32 Controller [M5 Atom] <img src="https://camo.githubusercontent.com/ccbe7239d886d25517fe4054d1d56b386682806723bf52d7c01c5f3cbfaab51a/68747470733a2f2f6d35737461636b2e6f73732d636e2d7368656e7a68656e2e616c6979756e63732e636f6d2f696d6167652f6d352d646f63735f686f6d65706167652f636f72652f61746f6d5f6c6974655f30312e77656270" alt="M5Atom Lite" width="350" height="350">
 - Apple Homekit
 - APA102A addressable ledstrip
