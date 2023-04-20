@@ -1,5 +1,5 @@
 # Homespan-APA102A-M5Atom
-<img src="https://github.com/jensbouma/Homespan-APA102A-M5Atom/raw/master/docs/img/result.jpg" width="350"><img src="https://github.com/jensbouma/Homespan-APA102A-M5Atom/raw/master/docs/img/APA102.jpg" width="350">
+<img src="https://github.com/jensbouma/Homespan-APA102A-M5Atom/raw/master/docs/img/result.jpg" width="350">
 M5Atom Homekit Controller for APA102A adressable ledstrips
 
 - ESP32 Controller [M5 Atom]
@@ -26,6 +26,8 @@ M5Atom Homekit Controller for APA102A adressable ledstrips
 - Solder the ESP SDA to the Data in and the SCL to the Clock in of the ledstrip. Check for the data direction!
 - Solder the +5V and the vommon from the poweradaptor to the ledstrip and the controller.
 - Re-feed the power to the strip after around every 60 leds to spread the current evenly.
+
+<img src="https://github.com/jensbouma/Homespan-APA102A-M5Atom/raw/master/docs/img/APA102.jpg" width="350">
 
 ## Installation
 
