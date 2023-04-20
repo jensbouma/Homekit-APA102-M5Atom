@@ -1,4 +1,4 @@
-# Homespan-APA102-M5Atom
+# Homespan-APA102-M5Atom <img src="https://img.shields.io/github/actions/workflow/status/jensbouma/Homekit-APA102-M5Atom/main.yml">
 DIY Philips Hue - M5Atom Apple Homekit Controller for APA102 adressable ledstrips.
 
 <img src="https://github.com/jensbouma/Homekit-APA102-M5Atom/raw/master/docs/img/result.jpg" width="350">
@@ -46,3 +46,6 @@ DIY Philips Hue - M5Atom Apple Homekit Controller for APA102 adressable ledstrip
    [fastled]: <https://github.com/FastLED/FastLED>
    [platformio]: <https://platformio.org>
 >
+
+
+
