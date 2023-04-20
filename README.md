@@ -27,8 +27,8 @@ M5Atom Homekit Controller for APA102A adressable ledstrips
 
 ## Installation
 
-git clone https://github.com/jensbouma/Homespan-APA102A-M5Atom.git
-open in VSCode with [platformio] PlatformIO extention and send to ESP
+- git clone https://github.com/jensbouma/Homespan-APA102A-M5Atom.git
+- open in VSCode with [platformio] PlatformIO extention and send to ESP
 
 [//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
 
@@ -38,4 +38,5 @@ open in VSCode with [platformio] PlatformIO extention and send to ESP
    [APA102A Leds]: <https://amzn.to/41mFc9m>
    [Power Adaptor]: <https://amzn.to/3MTSaXU>
    [fastled]: <https://github.com/FastLED/FastLED>
+   [platformio]: <https://platformio.org>
 >
