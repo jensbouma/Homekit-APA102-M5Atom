@@ -1,6 +1,5 @@
 # Homespan-APA102A-M5Atom
-<img src="https://github.com/jensbouma/Homespan-APA102A-M5Atom/raw/master/docs/img/result.jpg" width="350">
-<img src="https://github.com/jensbouma/Homespan-APA102A-M5Atom/raw/master/docs/img/APA102.jpg" width="350">
+<img src="https://github.com/jensbouma/Homespan-APA102A-M5Atom/raw/master/docs/img/result.jpg" width="350"><img src="https://github.com/jensbouma/Homespan-APA102A-M5Atom/raw/master/docs/img/APA102.jpg" width="350">
 M5Atom Homekit Controller for APA102A adressable ledstrips
 
 - ESP32 Controller [M5 Atom]
