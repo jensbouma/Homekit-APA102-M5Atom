@@ -28,6 +28,7 @@ M5Atom Homekit Controller for APA102A adressable ledstrips
 - Re-feed the power to the strip after around every 60 leds to spread the current evenly.
 
 <img src="https://github.com/jensbouma/Homespan-APA102A-M5Atom/raw/master/docs/img/APA102.jpg" width="350">
+<img src="https://github.com/jensbouma/Homespan-APA102A-M5Atom/raw/master/docs/img/purple.jpg" width="350">
 
 ## Installation
 
