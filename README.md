@@ -1,18 +1,16 @@
 # Homespan-APA102A-M5Atom
+DIY Philips Hue - M5Atom Apple Homekit Controller for APA102A adressable ledstrips.
 
 <img src="https://github.com/jensbouma/Homespan-APA102A-M5Atom/raw/master/docs/img/result.jpg" width="350">
-M5Atom Homekit Controller for APA102A adressable ledstrips
-
-- DIY Philips Hue
-- ESP32 Controller [M5 Atom]
-- Apple Homekit
-- APA102A addressable ledstrip
 
 ## Features
-- RGB Colors
-- Dimming
-- Button
-- Split strips in multiple lights with start and end pixel
+- ESP32 Controller [M5 Atom].
+- Native Apple Homekit without bridge or homebridge software.
+- [APA102A Leds] per pixel addressable ledstrip.
+- RGB Colors.
+- Dimming.
+- Button.
+- Split strips in multiple lights with start and end pixel.
 
 ## Tech
 - [homespan] - Homespan Libary
