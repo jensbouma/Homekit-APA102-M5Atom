@@ -1,7 +1,9 @@
 # Homespan-APA102A-M5Atom
+
 <img src="https://github.com/jensbouma/Homespan-APA102A-M5Atom/raw/master/docs/img/result.jpg" width="350">
 M5Atom Homekit Controller for APA102A adressable ledstrips
 
+- DIY Philips Hue
 - ESP32 Controller [M5 Atom]
 - Apple Homekit
 - APA102A addressable ledstrip
@@ -22,18 +24,19 @@ M5Atom Homekit Controller for APA102A adressable ledstrips
 - [APA102A Leds]
 - Strong [Power Adaptor] (3.5A minimum per 60 leds)
 
+## Installation
+- git clone https://github.com/jensbouma/Homespan-APA102A-M5Atom.git
+- open in VSCode with [platformio] PlatformIO extention and send to ESP
+
 ## Build
-- Solder the ESP SDA to the Data in and the SCL to the Clock in of the ledstrip. Check for the data direction!
+- Solder the EPS's SDA to the Data IN and the SCL to the Clock IN of the ledstrip. Check the data direction!
 - Solder the +5V and the vommon from the poweradaptor to the ledstrip and the controller.
 - Re-feed the power to the strip after around every 60 leds to spread the current evenly.
 
+## Images
 <img src="https://github.com/jensbouma/Homespan-APA102A-M5Atom/raw/master/docs/img/APA102.jpg" width="350">
 <img src="https://github.com/jensbouma/Homespan-APA102A-M5Atom/raw/master/docs/img/purple.jpg" width="350">
-
-## Installation
-
-- git clone https://github.com/jensbouma/Homespan-APA102A-M5Atom.git
-- open in VSCode with [platformio] PlatformIO extention and send to ESP
+<img src="https://github.com/jensbouma/Homespan-APA102A-M5Atom/raw/master/docs/img/atomproto.jpg" width="350">
 
 [//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
 
